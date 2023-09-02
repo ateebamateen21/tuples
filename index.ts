@@ -18,4 +18,5 @@ let a = await inquirer.prompt([
   }
 ])
 console.log(a);
-console.log(a.Myname);aa
+console.log(a.Myname);
+console.log(a.Myname);
